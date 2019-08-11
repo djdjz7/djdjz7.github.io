@@ -73,7 +73,7 @@
 | 检查更新失败 | 确保从 Switcher 启动 Updater，Resources文件夹存在，网络连接正常或切换服务器 |
 | 下载失败 | 同上 |
 
-## 五、Updater 2.2 启动参数：  
+## 五、Updater 2.2 及以上版本启动参数：  
 *单独开启的 Updater 的方法仅适用于紧急情况*  
 
 |  启动参数   |        用途         |
@@ -87,10 +87,9 @@
 
 *帮助与支持到此结束*
 
-Switcher Core LTS  
-Switcher GUI LTS  
+Switcher LTS  
 *Long Term Support Channel*  
-Finished time: 2019/8/4
+2019
 
 
 
