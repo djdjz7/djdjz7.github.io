@@ -1,18 +1,12 @@
-# Setup
-title:        Switcher Blogs
-tagline:      The Official Site Of Switcher
-baseurl:      ""
-paginate:     1
-locale:       "cn"
+# Site settings
+title: Switcher Blogs
+email: TCTDDSWITCHER@YEAH.NET
+description: > # this means to ignore newlines until "baseurl:"
+  The Official Site Of Switcher
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://github.com/AASQuanDeng/AAS/tree/Switcher" # the base hostname & protocol for your site
+twitter_username: 戴嘉震
+github_username:  AASQuanDeng
 
-# About/contact
-author:
-  name:       AASQuanDeng
-  url:        https://github.com/AASQuanDeng 
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
+# Build settings
 markdown: kramdown
