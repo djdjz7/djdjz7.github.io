@@ -1,7 +1,7 @@
 # Setup
 title:        Switcher Blogs
 tagline:      The Official Site Of Switcher
-baseurl:      ""
+baseurl:      "https://www.github.com/AASQuanDeng/AAS/tree/Switcher"
 paginate:     1
 locale:       "cn"
 
