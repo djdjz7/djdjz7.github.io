@@ -3,7 +3,7 @@ title:        Switcher Blogs
 tagline:      The Official Site Of Switcher
 baseurl:      "https://github.com/AASQuanDeng/AAS/tree/Switcher"
 paginate:     1
-locale:       "cn"
+locale:       "zh"
 
 # About/contact
 author:
