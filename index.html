@@ -1,15 +1,13 @@
 ---
-layout: home
+layout: default
+title: {{ site.name }}
 ---
-<div class="home">
-  <ul class="post-list">
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
     {% for post in site.posts %}
-      <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-            <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
-          </a>
-      </li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
