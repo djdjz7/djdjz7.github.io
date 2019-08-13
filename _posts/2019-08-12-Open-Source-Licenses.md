@@ -10,11 +10,11 @@
 
 ### Source Code Hub:  
 
-[Github](https://github.com/AASQuanDeng/AAS/tree/SwitcherSource)  
+[Github](https://github.com/AASQuanDeng/Switcher/tree/Switcher-Source-Code)  
 
 ### Switcher BETA  
 
-[Github](https://github.com/AASQuanDeng/AAS/tree/SwitcherBeta)  
+[Github](https://github.com/AASQuanDeng/Switcher/tree/Switcher-Beta)  
 
 ### Partner's Hub:  
 
