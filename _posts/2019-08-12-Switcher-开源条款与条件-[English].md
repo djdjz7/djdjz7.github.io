@@ -46,6 +46,8 @@ AAS: Not yet.
 
 For code information, send your question to <TCTDDSWITCHER@YEAH.NET>  
 
+This project obeys Apache License 2.0  
+
 *Switcher Open Source Project*  
 *Switcher LTS, Updater 2.x, Activator 1.x*  
 *Long Term Support Open Source*  
