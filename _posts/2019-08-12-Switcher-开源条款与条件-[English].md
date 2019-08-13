@@ -4,7 +4,7 @@ title: 'Switcher Open Source Licenses'
 subtitle: 'Read this carefully before editing the source sode.'
 date: 2019-08-12
 cover: 'https://aasquandeng.github.io/assets/img/hero.jpg'
-header-image: 'https://aasquandeng.github.io/assets/img/hero.jpg'
+header-image: 'https://aasquandeng.github.io/assets/img/license.jpg'
 tags: 开源
 ---
 
