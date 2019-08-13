@@ -12,7 +12,7 @@
 
 [Github](https://github.com/AASQuanDeng/AAS/tree/SwitcherSource)  
 
-### Switcher WITH Full Functions WITHOUT Activation ( BETA )  
+### Switcher BETA  
 
 [Github](https://github.com/AASQuanDeng/AAS/tree/SwitcherBeta)  
 
