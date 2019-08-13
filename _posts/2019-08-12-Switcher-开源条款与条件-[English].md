@@ -1,3 +1,12 @@
+---
+layout: post
+title: 'Switcher Open Source Licenses'
+subtitle: 'Read this carefully before editing the source sode.'
+date: 2019-08-12
+cover: 'https://ws2.sinaimg.cn/large/006Xmmmggy1g5yduqedf6j31910u0gsp.jpg'
+tags: 开源
+---
+
 # Switcher Open Source Licenses  
 
 ## Part 1: About The Open Source Project  
