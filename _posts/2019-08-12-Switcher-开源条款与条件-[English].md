@@ -3,7 +3,7 @@ layout: post
 title: 'Switcher Open Source Licenses'
 subtitle: 'Read this carefully before editing the source sode.'
 date: 2019-08-12
-cover: 'https://ws2.sinaimg.cn/large/006Xmmmggy1g5yduqedf6j31910u0gsp.jpg'
+cover: 'https://aasquandeng.github.io/assets/img/hero.jpg'
 tags: 开源
 ---
 
