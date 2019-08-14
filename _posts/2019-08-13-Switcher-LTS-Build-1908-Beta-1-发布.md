@@ -5,7 +5,7 @@ subtitle: '内部版本：190800.0.1'
 date: 2019-08-13
 cover: 'https://aasquandeng.github.io/assets/img/1908b1.jpg'
 header-image: 'https://aasquandeng.github.io/assets/img/1908b1.jpg'
-tags: 更新日志
+tags: 更新日志 Beta
 ---
 
 # Switcher LTS Build 1908 Beta 1  
