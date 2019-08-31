@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Switcher LTS Build 1908 Beta 1 更新内容'
-subtitle: '内部版本：190800.0.1'
-date: 2019-08-13
+title: 'Switcher LTS Build 1908 更新内容'
+subtitle: '内部版本：190800.1.0'
+date: 2019-08-31
 cover: 'https://aasquandeng.github.io/assets/img/1908b1.jpg'
 header-image: 'https://aasquandeng.github.io/assets/img/1908b1.jpg'
-tags: 更新日志 Beta
+tags: 更新日志
 ---
 
 # Switcher LTS Build 1908 Beta 1  
@@ -13,6 +13,8 @@ tags: 更新日志 Beta
 # 内部版本：190800.0.1  
 
 ## 更新内容  
+
+(--- Beta 1 ---)
 
 全部组件使用 Visual Studio 2019 编译  
 
@@ -38,6 +40,32 @@ Activator 现已支持不同服务器的激活
 
 此版本尝试对 Windows XP 和 Windows Vista 恢复支持，但由于 Visual Studio 2019 的兼容性放弃   
 
+( --- Beta 2 --- )
+
+修改了关于界面  
+
+新增授权用户名  
+
+新增 Credits 窗口  
+
+修改了 致谢 界面  
+
+( --- Beta 3 --- )
+
+Switcher 主程序添加了对英语的支持（将系统语言设置为英语即可）  
+
+Updater 升级至 2.4  
+
+Activator 升级至 1.3  
+
+彻底解决版本号错位问题  
+
+( --- Beta 4 --- )
+
+完全支持英语  
+
+对在线帮助文档进行提示  
+
 使用 Visual Studio 编译，Windows 窗体应用。  
 
-October 13, 2019  
+October 31, 2019  
