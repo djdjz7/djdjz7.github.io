@@ -7,6 +7,10 @@ header-image: 'https://djdjz7.github.io/assets/img/support.jpg'
 tags: 帮助与支持 Switcher
 ---
 
+# THIS FILE HAS BEEN ARCHIVED
+Please notice that archieved files may be outdated and haven't been updated for a long time.  
+Look for new documents on [my blog](https://djdjz7.github.io)
+
 # Switcher LTS 产品生命周期  
 ## Beta 生命周期  
 
