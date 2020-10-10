@@ -5,7 +5,7 @@ subtitle: 'Read this carefully before editing the source code.'
 date: 2019-08-12
 cover: 'https://djdjz7.github.io/assets/img/license.jpg'
 header-image: 'https://djdjz7.github.io/assets/img/license.jpg'
-tags: 开源
+tags: 开源 Switcher
 ---
 
 # Switcher Open Source Licenses  
