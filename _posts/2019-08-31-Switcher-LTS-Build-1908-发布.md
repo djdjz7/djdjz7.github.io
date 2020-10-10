@@ -5,7 +5,7 @@ subtitle: '内部版本：190800.1.0'
 date: 2019-08-31
 cover: 'https://djdjz7.github.io/assets/img/1908b1.jpg'
 header-image: 'https://djdjz7.github.io/assets/img/1908b1.jpg'
-tags: 更新日志
+tags: 更新日志 Switcher
 ---
 
 # Switcher LTS Build 1908 Beta 1  
