@@ -8,6 +8,10 @@ header-image: 'https://djdjz7.github.io/assets/img/license.jpg'
 tags: 开源 Switcher
 ---
 
+# This file has been archieved
+Please notice that archieved files may be outdated and haven't been updated for a long time.  
+Look for new documents on [my blog](https://djdjz7.github.io)
+
 # Switcher Open Source Licenses  
 
 ## Part 1: About The Open Source Project  
