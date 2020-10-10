@@ -46,7 +46,7 @@ Look for new documents on [my blog](https://djdjz7.github.io).
 
 **2.若网络正常，请尝试：**  
 
-**[切换服务器](#6%e5%a6%82%e4%bd%95%e5%88%87%e6%8d%a2%e6%9c%8d%e5%8a%a1%e5%99%a8)**  
+**[切换服务器](#6%e5%20%a6%82%e4%bd%95%e5%88%87%e6%8d%a2%e6%9c%8d%e5%8a%a1%e5%99%a8)**  
 
 ### 5. 更新内容  
 
