@@ -8,6 +8,10 @@ header-image: 'https://djdjz7.github.io/assets/img/1908b1.jpg'
 tags: 更新日志 Switcher
 ---
 
+# THIS FILE HAS BEEN ARCHIVED
+Please notice that archieved files may be outdated and haven't been updated for a long time.  
+Look for new documents on [my blog](https://djdjz7.github.io).
+
 # Switcher LTS Build 1908 Beta 1  
 
 # 内部版本：190800.0.1  
