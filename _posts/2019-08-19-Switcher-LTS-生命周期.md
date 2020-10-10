@@ -4,7 +4,7 @@ title: 'Switcher LTS 产品生命周期'
 date: 2019-08-19
 cover: 'https://djdjz7.github.io/assets/img/support.jpg'
 header-image: 'https://djdjz7.github.io/assets/img/support.jpg'
-tags: 帮助与支持
+tags: 帮助与支持 Switcher
 ---
 
 # Switcher LTS 产品生命周期  
