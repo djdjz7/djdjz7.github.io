@@ -3,8 +3,8 @@ layout: post
 title: 'Switcher Open Source Licenses'
 subtitle: 'Read this carefully before editing the source code.'
 date: 2019-08-12
-cover: 'https://aasquandeng.github.io/assets/img/license.jpg'
-header-image: 'https://aasquandeng.github.io/assets/img/license.jpg'
+cover: 'https://djdjz7.github.io/assets/img/license.jpg'
+header-image: 'https://djdjz7.github.io/assets/img/license.jpg'
 tags: 开源
 ---
 
@@ -14,17 +14,17 @@ tags: 开源
 
 ### Site:  
 
-[Github](https://github.com/AASQuanDeng/AAS/tree/Switcher)  
+[Github](https://github.com/djdjz7/AAS/tree/Switcher)  
 
 [Gitee](https://gitee.com/cswitcher/AAS/tree/Switcher/)  
 
 ### Source Code Hub:  
 
-[Github](https://github.com/AASQuanDeng/Switcher/tree/Switcher-Source-Code)  
+[Github](https://github.com/djdjz7/Switcher/tree/Switcher-Source-Code)  
 
 ### Switcher BETA  
 
-[Github](https://github.com/AASQuanDeng/Switcher/tree/Switcher-Beta)  
+[Github](https://github.com/djdjz7/Switcher/tree/Switcher-Beta)  
 
 ### Partner's Hub:  
 
