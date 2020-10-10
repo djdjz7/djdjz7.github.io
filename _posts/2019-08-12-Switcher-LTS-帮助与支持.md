@@ -40,7 +40,7 @@ Look for new documents on [my blog](https://djdjz7.github.io).
 
 **您有可能无法打开肖亚林的故事**  
 
-### 为什么我无法下载组件？  
+### 4. 为什么我无法下载组件？  
 
 **1.请检查您的网络状况**  
 
@@ -48,11 +48,11 @@ Look for new documents on [my blog](https://djdjz7.github.io).
 
 **[切换服务器](#6%e5%a6%82%e4%bd%95%e5%88%87%e6%8d%a2%e6%9c%8d%e5%8a%a1%e5%99%a8)**  
 
-### 5.更新内容  
+### 5. 更新内容  
 
 **见 [Switcher Blogs](https://djdjz7.github.io)**   
 
-### 6.如何切换服务器  
+### 6. 如何切换服务器  
 
 #### Switcher LTS 中提供了两个服务器：  
 
