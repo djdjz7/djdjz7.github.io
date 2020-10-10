@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Switcher LTS 产品生命周期'
-subtitle: ''
+subtitle: '源码保留周期'
 date: 2019-08-19
 cover: 'https://djdjz7.github.io/assets/img/support.jpg'
 header-image: 'https://djdjz7.github.io/assets/img/support.jpg'
