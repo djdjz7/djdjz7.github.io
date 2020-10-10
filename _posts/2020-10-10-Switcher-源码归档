@@ -1,9 +1,15 @@
 ---
 layout: post
-title: 'Switcher LTS 帮助与支持'
-subtitle: '使用 Switcher LTS 的过程中有问题？仔细阅读下面的文章！'
+title: 'Switcher 源码归档'
+subtitle: ''
 date: 2019-08-12
-cover: 'https://djdjz7.github.io/assets/img/support.jpg'
-header-image: 'https://djdjz7.github.io/assets/img/support.jpg'
-tags: 帮助与支持 Switcher
+cover: ''
+header-image: ''
+tags: Switcher
 ---
+## Switcher 源码先已归档，将在逐步迁移至 C# 并完成 GUI 版 Updater 后取消归档
+## 最后更新的版本
+Switcher  
+Updater  
+Activator
+Universual-Activation-Tool (GUI version of Activator)
