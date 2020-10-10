@@ -2,8 +2,8 @@
 layout: post
 title: 'Switcher LTS 产品生命周期'
 date: 2019-08-19
-cover: 'https://aasquandeng.github.io/assets/img/support.jpg'
-header-image: 'https://aasquandeng.github.io/assets/img/support.jpg'
+cover: 'https://djdjz7.github.io/assets/img/support.jpg'
+header-image: 'https://djdjz7.github.io/assets/img/support.jpg'
 tags: 帮助与支持
 ---
 
