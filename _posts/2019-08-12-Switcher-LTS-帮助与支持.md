@@ -24,11 +24,11 @@ Look for new documents on [my blog](https://djdjz7.github.io).
 
 ### 2. 为什么我打不开AAS或肖亚林的故事？
 
-1. **64位系统：检查 C:\Program Files(x86)\Switcher\Resources\AAS.exe 和 C:\Program Files(x86)\Switcher\Resources\xyl.exe 是否存在**  
+**64位系统：检查 C:\Program Files(x86)\Switcher\Resources\AAS.exe 和 C:\Program Files(x86)\Switcher\Resources\xyl.exe 是否存在**  
 
 **32位系统：检查 C:\Program Files\Switcher\Resources\AAS.exe 和 C:\Program Files\Switcher\Resources\xyl.exe 是否存在**  
 
-2. **(1)如果存在：尝试重新启动Switcher**  
+**(1)如果存在：尝试重新启动Switcher**  
 
 **(2)如果不存在，请重新安装Switcher**  
 
