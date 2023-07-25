@@ -1,6 +1,7 @@
 {
-    "name": "",
+    "name": "Jason Dai",
     "short_name": "",
+    "description": "Jason Dai's personal homepage.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +14,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    "theme_color": "#1e4765",
+    "background_color": "#1e4765",
+    "start_url": "index.html",
+    "display": "fullscreen"
 }
