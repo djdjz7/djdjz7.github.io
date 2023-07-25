@@ -35,33 +35,49 @@ import FriendlyLink from "../components/FriendlyLink.vue";
     >
       <main>
         <div flex items-center>
-          <a class="material-symbols-rounded" hover:text-white text-white href="/" text-4xl>chevron_left</a>
+          <a
+            class="material-symbols-rounded hover:bg-white/30"
+            hover-shadow-lg
+            transition-all
+            duration-150
+            h-12
+            w-12
+            flex="~ items-center justify-center"
+            rounded-full
+            hover:text-white
+            text-white
+            href="/"
+            text-4xl
+            >chevron_left</a
+          >
           <h1 m-l-2 text-4xl>Friendly Links</h1>
         </div>
         <hr border-1 className="border-white/88" m-x-2 rounded-full />
-        <FriendlyLink
-          name="litluo"
-          href="https://www.cnblogs.com/litluo"
-          imgSrc="/avatars/litluo.png"
-        />
-        <FriendlyLink
-          name="SXZ++"
-          href="https://sxz-oi.github.io/"
-          imgSrc="/avatars/sxz++.png"
-          description="These guys are 巨, check it out."
-        />
-        <FriendlyLink
-          name="KuzuSy"
-          href="https://kuzusy.github.io"
-          imgSrc="https://avatars.githubusercontent.com/u/72185113?s=96&v=4"
-          description="可恶，人家都毕业了"
-        />
-        <FriendlyLink
-          name="Cirno Baka"
-          href="https://cirno-baka.github.io/"
-          imgSrc="https://avatars.githubusercontent.com/u/53512550?s=96&v=4"
-          description='"我最近没空弄"'
-        />
+        <div flex="~ col" gap-1>
+          <FriendlyLink
+            name="litluo"
+            href="https://www.cnblogs.com/litluo"
+            imgSrc="/avatars/litluo.png"
+          />
+          <FriendlyLink
+            name="SXZ++"
+            href="https://sxz-oi.github.io/"
+            imgSrc="/avatars/sxz++.png"
+            description="These guys are 巨, check it out."
+          />
+          <FriendlyLink
+            name="KuzuSy"
+            href="https://kuzusy.github.io"
+            imgSrc="https://avatars.githubusercontent.com/u/72185113?s=96&v=4"
+            description="可恶，人家都毕业了"
+          />
+          <FriendlyLink
+            name="Cirno Baka"
+            href="https://cirno-baka.github.io/"
+            imgSrc="https://avatars.githubusercontent.com/u/53512550?s=96&v=4"
+            description='"我最近没空弄"'
+          />
+        </div>
       </main>
     </div>
   </div>

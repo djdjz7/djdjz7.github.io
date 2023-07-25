@@ -12,7 +12,7 @@ defineProps({
 
 <template>
     <a p-4 className="hover:bg-white/30 hover:shadow-lg" block rounded-4 :href="href" text-white no-underline
-        flex gap-2 items-center>
+        flex gap-2 items-center transition-all duration-150>
         <div h-12 w-12 overflow-clip rounded-full shadow-md>
           <img h-12 w-12 :src="imgSrc"/>
         </div>

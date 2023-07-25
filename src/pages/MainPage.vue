@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import NavLink from '../components/NavLink.vue'
+import GithubCorner from "../components/GithubCorner.vue";
+import NavLink from "../components/NavLink.vue";
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import NavLink from '../components/NavLink.vue'
     left-0
     fixed
   >
+    <GithubCorner />
     <div
       border="t-2 l-2 b-0 r-0 white/30 solid"
       shadow="xl hover:2xl"
@@ -59,13 +61,23 @@ import NavLink from '../components/NavLink.vue'
       flex
       gap-1
     >
-      <NavLink href="https://legacy.openflier.top" text="中育飞车助手" symbol="wifi" />
-      <NavLink href="https://openflier.top" text="OpenFlier" symbol="screenshot_monitor" />
+      <NavLink
+        href="https://legacy.openflier.top"
+        text="中育飞车助手"
+        symbol="wifi"
+      />
+      <NavLink
+        href="https://openflier.top"
+        text="OpenFlier"
+        symbol="screenshot_monitor"
+      />
       <NavLink href="https://blog.djdjz7.top" text="博客" symbol="article" />
-      <NavLink href="https://quote.djdjz7.top" text="And I Quote" symbol="chat" />
+      <NavLink
+        href="https://quote.djdjz7.top"
+        text="And I Quote"
+        symbol="chat"
+      />
       <NavLink href="/links" text="Links" symbol="link" />
     </div>
   </div>
 </template>
-
-
