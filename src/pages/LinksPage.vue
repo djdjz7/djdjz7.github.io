@@ -34,7 +34,8 @@ import FriendlyLink from "../components/FriendlyLink.vue";
       overflow-scroll
     >
       <main>
-        <div>
+        <div flex items-center>
+          <a class="material-symbols-rounded" hover:text-white text-white href="/" text-4xl>chevron_left</a>
           <h1 m-l-2 text-4xl>Friendly Links</h1>
         </div>
         <hr border-1 className="border-white/88" m-x-2 rounded-full />
