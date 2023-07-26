@@ -4,7 +4,7 @@ import FriendlyLink from "../components/FriendlyLink.vue";
 
 <template>
   <div
-    bg="[url(/bg.png)] cover center"
+    bg="[url(/bg.webp)] cover center"
     md:flex
     md:flex-col
     md:items-center

@@ -5,7 +5,7 @@ import NavLink from "../components/NavLink.vue";
 
 <template>
   <div
-    bg="[url(/bg.png)] cover center"
+    bg="[url(/bg.webp)] cover center"
     flex
     flex-col
     items-center
