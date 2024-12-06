@@ -50,14 +50,21 @@ import FriendlyLink from "../components/FriendlyLink.vue";
             text-4xl
             >chevron_left</a
           >
-          <h1 m-l-2 text-4xl>Friendly Links</h1>
+          <h1 m-l-2 text-3xl>Links</h1>
         </div>
         <hr border-1 className="border-white/88" m-x-2 rounded-full />
         <div flex="~ col" gap-1>
           <FriendlyLink
+            name="ICUlizhi"
+            href="https://iculizhi.github.io/"
+            imgSrc="https://avatars.githubusercontent.com/u/123815642?s=96&v=4"
+            description="关注 xjgg 喵，关注 xjgg 谢谢喵"
+          />
+          <FriendlyLink
             name="litluo"
             href="https://www.cnblogs.com/litluo"
             imgSrc="/avatars/litluo.png"
+            description="牛的"
           />
           <FriendlyLink
             name="SXZ++"
@@ -69,7 +76,7 @@ import FriendlyLink from "../components/FriendlyLink.vue";
             name="KuzuSy"
             href="https://kuzusy.github.io"
             imgSrc="https://avatars.githubusercontent.com/u/72185113?s=96&v=4"
-            description="可恶，人家都毕业了"
+            description="可恶，人家都毕业了（哈哈我也毕业了）"
           />
           <FriendlyLink
             name="Cirno Baka"
